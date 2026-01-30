@@ -1,0 +1,10 @@
+// Pages barrel export
+export { Login } from './Login'
+export { Register } from './Register'
+export { Dashboard } from './Dashboard'
+export { Tickets } from './Tickets'
+export { TicketDetail } from './TicketDetail'
+export { Kanban } from './Kanban'
+export { KnowledgeBase } from './KnowledgeBase'
+export { ArticleView } from './ArticleView'
+export { Chat } from './Chat'
